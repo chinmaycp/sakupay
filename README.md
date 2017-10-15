@@ -1,3 +1,4 @@
-# sakupay
-payment platform
+# Sakupay
+
+Payment Platform
 
